@@ -1,3 +1,8 @@
+/** 
+ * ECMAScript 6
+ * Junio 2015
+*/
+
 function newFunction(name, age, country) {
   var name = name || 'Daniel'
   var age = age || 30
